@@ -4,7 +4,7 @@
 
 ## JMETER FILE
 
-https://github.com/aladnansami/JMeter-Assignment-02-Update-Delete-/blob/main/JMeter02(Update%20And%20Delete).jmx
+https://github.com/aladnansami/JMeter-Assignment-02-Update-Delete-/blob/main/dmoneyAPI.jmx
 
 # Summury
 
